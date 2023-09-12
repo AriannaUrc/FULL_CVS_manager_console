@@ -1,0 +1,16 @@
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\bin\Debug\net6.0\CSVmanager_Console.exe
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\bin\Debug\net6.0\CSVmanager_Console.deps.json
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\bin\Debug\net6.0\CSVmanager_Console.runtimeconfig.json
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\bin\Debug\net6.0\CSVmanager_Console.dll
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\bin\Debug\net6.0\CSVmanager_Console.pdb
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\CSVmanager_Console.csproj.AssemblyReference.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\CSVmanager_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\CSVmanager_Console.AssemblyInfoInputs.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\CSVmanager_Console.AssemblyInfo.cs
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\CSVmanager_Console.csproj.CoreCompileInputs.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\CSVmanager_Console.csproj.CopyComplete
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\CSVmanager_Console.dll
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\refint\CSVmanager_Console.dll
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\CSVmanager_Console.pdb
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\CSVmanager_Console.genruntimeconfig.cache
+C:\Users\mycharacter\Documents\Programming\C#\WinForms\CSVmanager_Console\CSVmanager_Console\obj\Debug\net6.0\ref\CSVmanager_Console.dll
